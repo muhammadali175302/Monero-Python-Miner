@@ -25,5 +25,5 @@ python3 stratum-miner.py
 To exit, just hit `ctrl-c`.
   
 # For Windows You Need CMake And C++ Tools  
-Cmake = https://cmake.org/download/  
-C++ Tools = https://visualstudio.microsoft.com/visual-cpp-build-tools/  
+CMake (30 - 50 MB) = https://cmake.org/download/  
+C++ Tools (4 - 5 GB) = https://visualstudio.microsoft.com/visual-cpp-build-tools/  
