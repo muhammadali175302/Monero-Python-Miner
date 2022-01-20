@@ -23,3 +23,7 @@ To run the pool miner, execute:
 python3 stratum-miner.py
 ```
 To exit, just hit `ctrl-c`.
+  
+# For Windows You Need CMake And C++ Tools  
+Cmake = https://cmake.org/download/  
+C++ Tools = https://visualstudio.microsoft.com/visual-cpp-build-tools/  
