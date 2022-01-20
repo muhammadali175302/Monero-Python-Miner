@@ -11,10 +11,11 @@ import time
 from multiprocessing import Process, Queue
 
 
-pool_host = 'xmr.pool.minergate.com'
-pool_port = 45700
-pool_pass = 'x'
-wallet_address = 'muhammadali175302@gmail.com'
+# Change It To Your Own Requirements If You Want ..
+pool_host = 'xmr.pool.minergate.com' # Pool URL
+pool_port = 45700 # Pool Port
+pool_pass = 'x' # Pool Password
+wallet_address = 'muhammadali175302@gmail.com' # Pool Username
 
 
 def main():
