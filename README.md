@@ -14,11 +14,7 @@ Good question! Simply there are so many people asking on
 First clone or download the repository, then install the dependencies:
 
 ```
-pip install py-cryptonight requests io os sys setuptools tokenize
-```
-Then Install This
-```
-pip install git+https://github.com/jtgrassie/pyrx
+pip install py-cryptonight requests git+https://github.com/jtgrassie/pyrx
 ```
 
 To run the pool miner, execute:
