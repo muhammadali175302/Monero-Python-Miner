@@ -12,10 +12,10 @@ from multiprocessing import Process, Queue
 
 
 # Change It To Your Own Requirements If You Want ..
-pool_host = 'xmr.pool.minergate.com' # Pool URL
-pool_port = 45700 # Pool Port
+pool_host = 'rx.unmineable.com' # Pool URL
+pool_port = '3333' # Pool Port
 pool_pass = 'x' # Pool Password
-wallet_address = 'muhammadali175302@gmail.com' # Pool Username
+wallet_address = 'TRX:TE1ss21SYVYqfCSPggbPPBQ2JzqLNKrwBp.PythonMiner' # Pool Username
 
 
 def main():
