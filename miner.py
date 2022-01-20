@@ -13,7 +13,7 @@ from multiprocessing import Process, Queue
 
 # Change It To Your Own Requirements If You Want ..
 pool_host = 'rx.unmineable.com' # Pool URL
-pool_port = '3333' # Pool Port
+pool_port = 3333 # Pool Port
 pool_pass = 'x' # Pool Password
 wallet_address = 'TRX:TE1ss21SYVYqfCSPggbPPBQ2JzqLNKrwBp.PythonMiner' # Pool Username
 
