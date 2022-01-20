@@ -14,7 +14,7 @@ Good question! Simply there are so many people asking on
 First clone or download the repository, then install the dependencies:
 
 ```
-pip install --user -r requirements.txt
+pip install py-cryptonight requests git+https://github.com/jtgrassie/pyrx
 ```
 
 To run the pool miner, execute:
