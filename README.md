@@ -1,8 +1,6 @@
 # Monero Python Miner
 
-Monero POW mining in Python.
-
-Utterly pointless for profit, but useful for testing / learning purposes.
+Monero mining in Python.
 
 ## Why?
 
@@ -17,10 +15,10 @@ First clone or download the repository, then install the dependencies:
 pip install py-cryptonight requests git+https://github.com/jtgrassie/pyrx
 ```
 
-To run the pool miner, execute:
+To run the pool miner first edit `miner.py` with your own cerdiments then execute:
 
 ```
-python3 stratum-miner.py
+python3 miner.py
 ```
 To exit, just hit `ctrl-c`.
   
